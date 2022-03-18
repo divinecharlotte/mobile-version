@@ -1,4 +1,4 @@
-img{
+img {
     height: 220px;
     width: 295px;
     left: 16px;
@@ -6,7 +6,7 @@ img{
     border-radius: 8px;
     
 }
-p{
+p {
     height: 76px;
 width: 295px;
 left: 0px;
@@ -14,7 +14,7 @@ top: 92px;
 border-radius: nullpx;
 
 }
-h2{
+h2 {
     font-family: Poppins;
 font-size: 32px;
 font-style: normal;
@@ -24,7 +24,7 @@ letter-spacing: 0em;
 text-align: left;
 
 }
-.flex-container{
+.flex-container {
     display: flex;
     flex-direction: row;
     font-size: 30px;
