@@ -1,0 +1,39 @@
+img{
+    height: 220px;
+    width: 295px;
+    left: 16px;
+    top: 16px;
+    border-radius: 8px;
+    
+}
+p{
+    height: 76px;
+width: 295px;
+left: 0px;
+top: 92px;
+border-radius: nullpx;
+
+}
+h2{
+    font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+    height: 24px;
+width: 45px;
+left: 61px;
+top: 0px;
+border-radius: 8px;
+padding: 4px, 12px, 4px, 12px;
+
+}
